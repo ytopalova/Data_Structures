@@ -1,0 +1,28 @@
+f
+100
+Barlett Pear
+100
+0.100000
+0.250000
+Niagra Orchard
+p
+212
+Raspberry Jam
+30
+2.280000
+5.500000
+250
+f
+311
+McIntosh Apple
+200
+0.100000
+0.250000
+Niagra Orchard
+v
+322
+Vine Ripe Tomato
+100
+0.100000
+0.350000
+McDonald's Farm
